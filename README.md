@@ -4,7 +4,8 @@ by Michael R. Springborn, Joakim A. Weill, Karen R. Lips, Roberto Ibanez, and An
 
 ## General ploting options
 
-Scripts/general_options.R 
+Scripts/general_options.R provides basic plotting options,
+
 Code/draw_crosshatch.R (adding crosshatch on the maps)
 
 ## Main text
@@ -43,6 +44,7 @@ Scripts/models_splines_paper.R
 
 ###  Fig S5: Bacon-Goodman decomposition
 Scripts/lardon.R, script to make the decomposition faster
+
 Scripts/model_bacondecomp.R
 
 ### Fig S6: 
